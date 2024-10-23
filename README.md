@@ -433,7 +433,7 @@ curl ya.ru
 |  5 | nano    | | 14 | cd         | | 23 | whoami   |
 |  6 | sleep   | | 15 | ping       | | 24 | env      |
 |  7 | clear   | | 16 | host       | | 25 | export   |
-|  8 | less    | | 17 | traceroute | | 26 | source   |
+|  8 | less    | | 17 | source     | | 26 | curl     |
 |  9 | more    | | 18 | fg         | | 27 | grep     |
 
 ### Задание 2 | Автоматизация создания директорий и файлов
